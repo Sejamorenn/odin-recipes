@@ -1,0 +1,50 @@
+body{
+    background-color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.firstlist, .secondlist
+{
+    border: 2px solid black;
+    display: block;
+     margin: 10px;
+    margin-right: 50%;
+    padding: 10px;
+    border-radius: 10px;
+   
+}
+
+.desc {
+    border: 2px solid black;
+    display: block;
+    margin: 10px;
+    margin-right: 50%;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.picture {
+    border: 2px solid black;
+    display: block;
+    margin: 10px;
+    margin-right: 50%;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+h2, h1 {
+    color: aliceblue;
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: center;
+    border: 2px solid black;
+}
+
+a {
+    border: 2px solid black;
+    font-size: 50px;
+    color: aliceblue;
+    display: block;
+    text-align: center;
+}
